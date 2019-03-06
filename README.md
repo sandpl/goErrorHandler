@@ -1,1 +1,1 @@
-# goErrorHandler
+# go 错误处理示例
